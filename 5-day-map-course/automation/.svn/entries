@@ -1,0 +1,54 @@
+8
+
+dir
+1
+http://7insights.com/svn/5day-map-course/trunk/automation
+
+
+
+
+2005-11-14T18:50:57.565193Z
+1
+desmond.dsouza
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f57e99ed-8a05-0410-9285-dc46203cd3a2
+
+production.ppt
+file
+4
+
+
+
+2005-11-26T04:23:18.545000Z
+34df7335b3fe27ba985fa75e3450effa
+2005-11-26T05:58:18.795403Z
+4
+desmond.dsouza
+has-props
+
+production.doc
+file
+
+
+
+
+2005-11-14T19:08:48.855193Z
+2e8f788c8ffd52c1437de1e54260d4e1
+2005-11-14T18:50:57.565193Z
+1
+desmond.dsouza
+has-props
+
